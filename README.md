@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @rogerkamoi
 - 👀 I’m interested in Machine Learnimg, Graph Neural Nets, Platoons and VANETs;
-- 🌱 I’m currently learning DevOps deplyment amd Reinforcement Learning;
-- 💞️ I’m looking to collaborate on Machine Learning Projects.
+- I’m currently studying adversarial attacks on platoons networks;
 - 📫 How to reach me roger.kamoi@gmail.com.
 
-<!---
-rogerkamoi/rogerkamoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
